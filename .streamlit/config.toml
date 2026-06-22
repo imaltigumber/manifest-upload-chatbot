@@ -1,0 +1,7 @@
+[theme]
+# Light theme — ensures all native Streamlit text is dark and readable
+primaryColor        = "#2563eb"   # blue-600  — buttons, links, active states
+backgroundColor     = "#f0f5ff"   # soft periwinkle-white page bg
+secondaryBackgroundColor = "#ffffff"  # widget / card areas
+textColor           = "#1e293b"   # near-black for all labels, captions, markdown
+font                = "sans serif"
